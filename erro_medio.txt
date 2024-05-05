@@ -1,0 +1,51 @@
+                Erro médio absoluto para MMSS
+
+-Erro médio absoluto entre todas variáveis angulares do sistema padrão ouro, QTM
+(arquivos em TSV) e os ângulos de cada vídeo em vista lateral para movimento de
+MMSS; (FEITO)
+
+-Erro médio absoluto entre todas variáveis angulares do sistema padrão ouro, QTM
+(arquivos em TSV) e os ângulos de cada vídeo em vista frontal para movimento de
+MMSS; (FEITO)
+
+-Erro médio absoluto entre todas variáveis angulares de cada vídeo em vista lateral e em
+vista frontal para movimento de MMSS; (FEITO)
+
+                Erro médio absoluto para Tronco e Cabeça
+
+-Erro médio absoluto entre todas variáveis angulares do sistema padrão ouro, QTM
+(arquivos em TSV) e os ângulos de cada vídeo em vista lateral para movimentos de
+tronco e cabeça; (FEITO)
+
+-Erro médio absoluto entre todas variáveis angulares do sistema padrão ouro, QTM
+(arquivos em TSV) e os ângulos de cada vídeo em vista frontal para movimentos de
+tronco e cabeça; (FEITO)
+
+-Erro médio absoluto entre todas variáveis angulares de cada vídeo em vista lateral e em
+vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+
+
+
+                Erro médio absoluto para Amplitude de Movimento (ADM) de MMSS
+
+    Obs. Amplitude de Movimento = ângulo máximo menos ângulo mínimo
+
+-Erro médio absoluto entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a
+ADM do vídeo em vista lateral para movimentos de MMSS; (FEITO)
+
+-Erro médio absoluto entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a
+ADM do vídeo em vista frontal para movimentos de MMSS; (FEITO)
+
+-Erro médio absoluto entre a ADM do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de MMSS; (FEITO)
+
+Erro médio absoluto para Amplitude de Movimento (ADM) de Tronco e Cabeça
+-Erro médio absoluto entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a
+ADM do vídeo em vista lateral para movimentos de tronco e cabeça; (FEITO)
+
+-Erro médio absoluto entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a
+ADM do vídeo em vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+Erro médio absoluto entre a ADM do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de tronco e cabeça; (FEITO)

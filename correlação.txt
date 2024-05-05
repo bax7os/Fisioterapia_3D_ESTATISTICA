@@ -1,0 +1,105 @@
+                teste de Correlação para MMSS
+
+- Correlação entre todas variáveis angulares do sistema padrão ouro, QTM (arquivos em
+TSV) e os ângulos de cada vídeo em vista lateral para movimentos de MMSS; (FEITO)
+
+- Correlação entre todas variáveis angulares do sistema padrão ouro, QTM (arquivos em
+TSV) e os ângulos de cada vídeo em vista frontal para movimentos de MMSS; (FEITO)
+
+
+-Correlação entre todas variáveis angulares de cada vídeo em vista lateral e em vista
+frontal para movimentos de MMSS; (FEITO)
+
+
+                Teste de Correlação para Tronco e Cabeça
+
+-Correlação entre todas variáveis angulares do sistema padrão ouro, QTM (arquivos em
+TSV) e os ângulos de cada vídeo em vista lateral para movimentos de tronco e cabeça; (FEITO)
+
+
+-Correlação entre todas variáveis angulares do sistema padrão ouro, QTM (arquivos em
+TSV) e os ângulos de cada vídeo em vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+
+-Correlação entre todas variáveis angulares de cada vídeo em vista lateral e em vista
+frontal para movimentos de tronco e cabeça; (FEITO)
+
+
+
+
+
+
+
+
+                Teste de Correlação para Amplitude de Movimento (ADM) de MMSS
+
+        Obs. Amplitude de Movimento = ângulo máximo menos ângulo mínimo
+        
+-Correlação entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a ADM do
+vídeo em vista lateral para movimentos de MMSS; (FEITO)
+
+
+-Correlação entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a ADM do
+vídeo em vista frontal para movimentos de MMSS; (FEITO)
+
+
+-Correlação entre a ADM do vídeo em vista lateral e do vídeo em vista frontal para
+movimentos de MMSS; (FEITO)
+
+
+Teste de Correlação para Amplitude de Movimento (ADM) de Tronco e Cabeça
+-Correlação entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a ADM do
+vídeo em vista lateral para movimentos de tronco e cabeça; (FEITO)
+
+
+-Correlação entre a ADM do sistema padrão ouro, QTM (arquivos em TSV) e a ADM do
+vídeo em vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+-Correlação entre a ADM do vídeo em vista lateral e do vídeo em vista frontal para
+movimentos de tronco e cabeça; (FEITO)
+
+
+
+                Teste de Correlação para Ângulo Máximo de MMSS
+
+-Correlação entre ângulo máximo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista lateral para movimentos de MMSS; (FEITO)
+
+-Correlação entre ângulo máximo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista frontal para movimentos de MMSS; (FEITO)
+
+-Correlação entre ângulo máximo do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de MMSS; (FEITO)
+
+                Teste de Correlação para Ângulo Mínimo de MMSS
+                
+-Correlação entre ângulo mínimo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista lateral para movimentos de MMSS; (FEITO)
+
+-Correlação entre ângulo mínimo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista frontal para movimentos de MMSS; (FEITO)
+
+-Correlação entre ângulo mínimo do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de MMSS; (FEITO)
+
+                Teste de Correlação para Ângulo Máximo de Tronco e Cabeça
+
+-Correlação entre ângulo máximo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista lateral para movimentos de tronco e cabeça; (FEITO)
+
+-Correlação entre ângulo máximo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+-Correlação entre ângulo máximo do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de tronco e cabeça; (FEITO)
+
+                Teste de Correlação para Ângulo Mínimo de Tronco e Cabeça
+
+-Correlação entre ângulo mínimo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista lateral para movimentos de tronco e cabeça; (FEITO)
+
+-Correlação entre ângulo mínimo do sistema padrão ouro, QTM (arquivos em TSV) e do
+vídeo em vista frontal para movimentos de tronco e cabeça; (FEITO)
+
+-Correlação entre ângulo mínimo do vídeo em vista lateral e do vídeo em vista frontal
+para movimentos de tronco e cabeça; (FEITO)
